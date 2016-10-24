@@ -1,0 +1,9 @@
+[nosetests]
+verbose=True
+verbosity=1
+detailed-errors=True
+with-coverage=True
+cover-erase=True
+cover-package=mock_gcm
+cover-tests=True
+
